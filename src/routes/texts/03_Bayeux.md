@@ -1,4 +1,3 @@
-
 ---
 title: Der Teppich von Bayeux
 date: "2024-05-14"
