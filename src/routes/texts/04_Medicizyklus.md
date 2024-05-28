@@ -16,3 +16,27 @@ Auf seinen zahlreichen Reisen setzt sich Rubens mit der italienischen Renaissanc
 
 Das ist das [Bild](item/68149), es gehört zum [Medicizyklus](item-set/68151).
 
+# Altniederländische Malerei - zeitliche Einordnung
+ Kunst und Architektur des 17. Jh
+
+Nördliche der Alpen verlief die Kunst anders, es herrscht in den niederländischen Städten ein Liberalismus, es ist viel Geld vorhanden und somit auch viel profane bildende Kunst. Es gab einen freien Markt für Kunst, eine Liberalisierung der Kunst wie nirgendswo auf der Welt. In der niederländischen Malerei wurde das Hier und Jetzt abgebildet. Es war calvinistisch nüchtern, Wohlstand und Nationalstolz wurde abgebildet aber es herrschte eine starke Bedeutungsaufladung in den Bildern, die moralisieren sollte. Zum Beispiel spielte das barocke Motiv „Vanitas“ eine große Rolle in Gemälden.
+
+Anthonis van Dyck: 
+_Schwerpunkte: Portraits, religiöse und mythologische Themen, Landschaftsaquarelle
+_ technische Brillanz und lockeren Pinselstrich, weniger durch die Üppigkeit eines Rubens
+_die Malweise spiegelt die Eleganz, Finesse und den Geschmack der Modelle wieder
+
+Annibale Carracci
+_Zeichentalent, der brillanten Akte und des harmonischen Bildaufbaus (Raffael)
+_ Kenntnis der Anatomie und heroischen Idealisierung (Michelangelo)
+_leuchtenden Farben (Tizian)
+_Beeinflussung Rubens durch seine Genrebilder und Ideallandschaften mit hervorragenden Naturbeobachtung
+
+Rembrandt van Rijn
+(1606-1669 Niederlande) Zeitgenosse
+
+_der bedeutendste holländische Maler
+_Grafiker (entwickelte neue Methoden, um frei fließende Linien in die Kupferplatten zu ätzen) 
+_anders als Rubens war Rembrandt nie in Italien
+_Werke behandeln biblische und historische Sujets
+
