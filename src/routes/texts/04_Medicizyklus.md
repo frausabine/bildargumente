@@ -80,20 +80,25 @@ Die Medici-Familie waren ebenfalls sehr für die Kunst zu begeistern . [Cosimo l
 Peter Paul Rubens erhielt 1621 seinen bedeutendsten Auftrag, nämlich einen Bilderzyklus über das Leben Maria de' Medicis und ihres Gatten König Heinrichs IV. zu malen. 1622 kommt es zum Vertragsschluss zwischen dem Maler und der Auftraggeberin Maria de’ Medici über zwei Bilderzyklen zu je 24 Gemälden. Maria und ihr geistlicher Ratgeber u.A. hatten Einfluss auf die thematischen Entwürfe.
 Nach Jahren der Streitigkeit besiegte Ludwig XII. 1620 ihre Truppen. Am 10. August musste Maria de’ Medici in den Frieden von Angers einwilligen. Nach dem Tod des Herzogs von Luynes, ihres Widersachers, führten weitere Verhandlungen zu einer am 15. Dezember 1621 offiziell besiegelten Versöhnung, die es ihr gestattete, Anfang 1622 nach Paris zurückzukehren, wo die Arbeiten am Palais du Luxembourg, ihrem Witwensitz, wieder aufgenommen wurden. Bereits am 26. Februar schloss die Königinmutter den Vertrag mit Rubens, in dem dieser sich verpflichtete, im Medici-Zyklus diese höchst konfliktreichen Ereignisse darzustellen, deren letztes nur zwei volle Monate zurücklag und deren weiterer Verlauf kaum absehbar war.
 Der Auftrag des Medici-Zyklus an Rubens gilt als geschickter politischer Schachzug der Königin, um die Legitimation ihrer Regentschaft aufzuzeigen und die Bewahrung des politischen Erbes Heinrichs IV. durch ihre Person zu beweisen. 
-Ihre Taten und Bestrebungen sollten durch Rubens Zyklus unsterblich werden. Aus diesen Gründen soll der erste Zyklus Szenen und Ereignisse aus dem Leben der Maria de’ Medici zeigen, der zweite Zyklus die Kriegsheldentaten König Heinrich IV. 
+Ihre Taten und Bestrebungen sollten durch Rubens Zyklus unsterblich werden.
 Die Bilder für den zweiten Zyklus können aufgrund der politisch angespannten Lage nicht vollendet werden. Rubens und Maria de’ Medici müssen auf Betreiben des Ministers Richelieu und Ludwig XII., die sich gegen die Königinmutter verschworen haben, im Jahre 1630/31 aus Frankreich über Belgien und Holland fliehen. 1638 wird Maria für immer ins Exil verbannt und stirbt geächtet 1642 in Köln.
- 
-Der Zyklus liegt seit 1815 im Pariser Louvre aus. Die Alte Pinakothek München besitzt hat 16 Modelli,Ölskizzen, die den Planungssrand zeigen. Aufgrund der als virtuos spontanen gekennzeichneten Malweise erlangten Rubens Skizzen bereits zu seinen Lebzeiten als eigenständiges Kunstwerk mit ästhetischem Eigenwert große Beliebtheit, weshalb seine Auftraggeberin auch wünschte, die Ölskizzen neben dem vollendeten Zyklus zu ihrem Besitz zählen zu dürfen.
+
+Der Zyklus liegt seit 1815 im Pariser Louvre aus. Die Alte Pinakothek München besitzt hat 16 Modelli, Ölskizzen, die den Planungsstand zeigen. Aufgrund der als virtuos spontanen gekennzeichneten Malweise erlangten Rubens Skizzen bereits zu seinen Lebzeiten als eigenständiges Kunstwerk mit ästhetischem Eigenwert große Beliebtheit, weshalb seine Auftraggeberin auch wünschte, die Ölskizzen neben dem vollendeten Zyklus zu ihrem Besitz zählen zu dürfen.
 
 er erste Zyklus, der allegorisch, „im Stil des Symbolismus, der tief in der christlichen Metaphysik begründet ist“[12], angefertigt wurde.
+# PANEGYRIK EINES UNRÜHMLICHEN LEBENS
+
+Im Medicizyklus 
 
 
 # Der Konstantinzyklus
 
-Zum Zeitpunkt der Auftragsvergabe vom medicizyklus wird Rubens bereits mit einer weiteren großen Bildfolge befasst gewesen sein, dem Konstantin-Zyklus. Es ist weder dokumentarisch belegt, wer ihm den Auftrag erteilte, die Kartons für eine zwölf Stücke umfassende Bildteppichfolge mit Szenen aus dem Leben Konstantins des Großen anzufertigen, noch wann dieser an ihn erging. 
+Zum Zeitpunkt der Auftragsvergabe vom Medicizyklus wird Rubens bereits mit einer weiteren großen Bildfolge befasst gewesen sein, dem Konstantinzyklus. Es ist weder dokumentarisch belegt, wer ihm den Auftrag erteilte, die Kartons für eine zwölf Stücke umfassende Bildteppichfolge mit Szenen aus dem Leben Konstantins des Großen anzufertigen, noch wann dieser an ihn erging. 
 Außer Zweifel steht jedoch, dass Ludwig XIII. der erste Käufer dieser Tapisserien war. 
 Umstritten ist, ob der junge König selbst der Auftraggeber war oder ob Rubens die Entwürfe für Marc de Comans (Coemans) und François de la Planche (van der Plancken) anfertigte, die Leiter der Tapisseriemanufaktur im Faubourg St. Marcel.
-Der Medici-Zyklus wird in der Rubens-Literatur in der Regel nicht zusammen mit den Konstantin-Teppichen behandelt. Ein Grund dafür könnte sein, dass Tapisserien verschiedener Editionen in Philadelphia, Paris, Wien und St. Petersburg aufbewahrt und somit über die Welt verstreut sind. Der Konstantinzyklus wird wohl kunsthistorisch vernachlässigt, obwohl er viel Möglichkeit liefert, einen anderen Blick auf den Medicizyklus zu gewinnen und diese zu vergleichen.
+Der Medicizyklus wird in der Rubens-Literatur in der Regel nicht zusammen mit den Konstantin-Teppichen behandelt. Ein Grund dafür könnte sein, dass Tapisserien verschiedener Editionen in Philadelphia, Paris, Wien und St. Petersburg aufbewahrt und somit über die Welt verstreut sind. Der Konstantinzyklus wird wohl kunsthistorisch vernachlässigt, obwohl er viel Möglichkeit liefert, einen anderen Blick auf den Medicizyklus zu gewinnen und diese zu vergleichen.
+
+# Konstantin oder Ludwig? Ludwig oder Maria?
 
 
 
