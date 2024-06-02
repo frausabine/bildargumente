@@ -86,3 +86,15 @@ Die Bilder für den zweiten Zyklus können aufgrund der politisch angespannten L
 Der Zyklus liegt seit 1815 im Pariser Louvre aus. Die Alte Pinakothek München besitzt hat 16 Modelli,Ölskizzen, die den Planungssrand zeigen. Aufgrund der als virtuos spontanen gekennzeichneten Malweise erlangten Rubens Skizzen bereits zu seinen Lebzeiten als eigenständiges Kunstwerk mit ästhetischem Eigenwert große Beliebtheit, weshalb seine Auftraggeberin auch wünschte, die Ölskizzen neben dem vollendeten Zyklus zu ihrem Besitz zählen zu dürfen.
 
 er erste Zyklus, der allegorisch, „im Stil des Symbolismus, der tief in der christlichen Metaphysik begründet ist“[12], angefertigt wurde.
+
+
+# Der Konstantinzyklus
+
+Zum Zeitpunkt der Auftragsvergabe vom medicizyklus wird Rubens bereits mit einer weiteren großen Bildfolge befasst gewesen sein, dem Konstantin-Zyklus. Es ist weder dokumentarisch belegt, wer ihm den Auftrag erteilte, die Kartons für eine zwölf Stücke umfassende Bildteppichfolge mit Szenen aus dem Leben Konstantins des Großen anzufertigen, noch wann dieser an ihn erging. 
+Außer Zweifel steht jedoch, dass Ludwig XIII. der erste Käufer dieser Tapisserien war. 
+Umstritten ist, ob der junge König selbst der Auftraggeber war oder ob Rubens die Entwürfe für Marc de Comans (Coemans) und François de la Planche (van der Plancken) anfertigte, die Leiter der Tapisseriemanufaktur im Faubourg St. Marcel.
+Der Medici-Zyklus wird in der Rubens-Literatur in der Regel nicht zusammen mit den Konstantin-Teppichen behandelt. Ein Grund dafür könnte sein, dass Tapisserien verschiedener Editionen in Philadelphia, Paris, Wien und St. Petersburg aufbewahrt und somit über die Welt verstreut sind. Der Konstantinzyklus wird wohl kunsthistorisch vernachlässigt, obwohl er viel Möglichkeit liefert, einen anderen Blick auf den Medicizyklus zu gewinnen und diese zu vergleichen.
+
+
+
+
