@@ -90,7 +90,7 @@ Der Zyklus behandelt zunächst die Herkunft der Protagonistin: Ihm vorangestellt
 er erste Zyklus, der allegorisch, „im Stil des Symbolismus, der tief in der christlichen Metaphysik begründet ist“[12], angefertigt wurde.
 
 
-# Panegyrik eines unrühmlichen Lebens
+# "Panegyrik eines unrühmlichen Lebens"
 
 Der Künstler sah Ludwigs Regentschaft als unumstößlich an und führte den Medicizyklus als politisch involvierter Künstler-Diplomat aus. Er nutzte seine kreativen Freiheiten, um die Friedensbotschaft der Bilder zu stärken und subtil auf die Marien-Ikonographie zurückzugreifen, um die Regentin als liebende Mutter darzustellen. Rubens bewies diplomatisches Geschick, indem er traurige Tatsachen zum Besseren hin darstellte und ästhetische Evidenz schuf. Obwohl Marias Leben wenig rühmlich war, gelang es Rubens, ein Hauptwerk der Kunstgeschichte zu schaffen, indem er metaphorische Bildsprache, Bildtradition und epideiktische Rede nutzte.
 
