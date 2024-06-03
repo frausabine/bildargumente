@@ -22,7 +22,7 @@ Zu all dem bringt die Tapisserie etwas mit - besser: es fehlt ihr etwas -, das s
 
 # Die filmische Abwicklung der Ereignisse
 
-(Asbatz sieben bis neun ausgelassen) 
+(Absatz sieben bis neun ausgelassen) 
 
 Doch muss der Faden wohl am Anfang aufgenommen werden, um den Ablauf der Ereignisse zu verstehen. Und so zeigt die erste Szene [die Entsendung Harold Godwinsons durch König Edward in die Normandie](item/68188). Was der genaue Inhalt des Gesprächs ist, das hier innerhalb von Palastmauern stattfindet, kann der Betrachter nur durch die Kenntnis weiterer Textquellen erahnen: Ob Harold Godwinson tatsächlich von Edward in die Normandie entsendet wird, um Wilhelms Anrecht auf den englischen Thron zu bekräftigen und ein bereits gegebenes Versprechen zu erneuern? Der thronende englische König weist mit einem Fingerzeig auf die beiden Gestalten neben seinem Thron, der vordere der beiden erwidert diese Geste, und die nach oben gehaltenen linken Hände der Männer bezeugen, dass die erhaltene Weisung gehört und befolgt werden wird. Harold bricht daraufhin mit seinem Gefolge auf, eine Meute Hunde eilt den Reitenden voraus, und der Graf selbst hält einen Falken in die Höhe (Abb. 14). Die Falkenjagd mag die friedvolle und höfische Absicht der königlichen Entsendung unterstreichen und weniger das Handeln Harolds denn seine moralische Integrität betonen. Ein Gebet in der Kirche von Bosham und ein gemeinsames Mahl des Grafen mit seinem Gefolge schließt sich an, bevor die Reise über das Meer offenbar die erste Fügung des Schicksals ankündigt. Der volle Wind, der die Segel von Harolds Schiff füllt, führt ihn direkt in die Gefangenschaft des Grafen von Ponthieu, und von dort wiederum in die Hände von dessen Lehnsherrn Wilhelm, Herzog und Graf der Normandie.
 
