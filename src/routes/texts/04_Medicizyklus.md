@@ -51,8 +51,8 @@ WICHTIGE WERKE: Selbstporträt, die Augen bedeckend, 1747 (London, National Port
 
 Annibale Carracci: Beeinflusser Rubens
 
-Gebürtig in Bologna, lebte Carracci ab 1595 in Rom.(Barock) Er war der talentierteste der drei Maler seiner Familie (neben seinem Bruder Agostino und seinem Vetter Ludovico) und gab der italienischen Kunst nach Michelangelo neue Impulse.
-Seine Fürsprecher führen an, er sei aufgrund seines Zeichentalents, der brillanten Akte und des harmonischen Bildaufbaus gleichrangig mit Raffael, bezüglich seiner Kenntnis der Anatomie und heroischen Idealisierung auf Augenhöhe mit Michelangelo (seine Fresken in der Galleria Farnese stünden denen Michelangelos in der Sixtina in nichts nach), und wegen seiner leuchtenden Farben vergleichbar mit Tizian. Seine frühen Genrebilder und Ideallandschaften sind Zeugnisse einer hervorragenden Naturbeobachtung, durch die er den jüngeren Zeitgenossen Rubens und später Poussin beeinflusste.
+Gebürtig in Bologna, lebte [Carracci](item/68193) ab 1595 in Rom.(Barock) Er war der talentierteste der drei Maler seiner Familie (neben seinem Bruder Agostino und seinem Vetter Ludovico) und gab der italienischen Kunst nach Michelangelo neue Impulse.
+Seine Fürsprecher führen an, er sei aufgrund seines Zeichentalents, der brillanten Akte und des harmonischen Bildaufbaus gleichrangig mit Raffael, bezüglich seiner Kenntnis der Anatomie und heroischen Idealisierung auf Augenhöhe mit Michelangelo (seine [Fresken in der Galleria Farnese](item/68195) stünden denen Michelangelos in der Sixtina in nichts nach), und wegen seiner leuchtenden Farben vergleichbar mit Tizian. Seine frühen [Genrebilder und Ideallandschaften](item-set/68201) sind Zeugnisse einer hervorragenden Naturbeobachtung, durch die er den jüngeren Zeitgenossen Rubens und später Poussin beeinflusste.
 
 
 Rembrandt van Rijn: bedeutender Zeitgenosse
