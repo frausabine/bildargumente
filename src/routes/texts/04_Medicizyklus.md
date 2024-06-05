@@ -58,10 +58,7 @@ Seine Fürsprecher führen an, er sei aufgrund seines Zeichentalents, der brilla
 Rembrandt van Rijn: bedeutender Zeitgenosse
 (1606-1669 Niederlande) 
 
-_der bedeutendste holländische Maler
-_Grafiker (entwickelte neue Methoden, um frei fließende Linien in die Kupferplatten zu ätzen) 
-_anders als Rubens war Rembrandt nie in Italien
-_Werke behandeln biblische und historische Sujets
+Van Rijn gilt als der bedeutendste hölländischer Maler. Rembrandt war auch ein hervorragender Grafiker. Erentwickelte neue Methoden, um frei fließende Linien in die Kupferplatten zu ätzen, sodass man den Blättern die harte Arbeit nicht ansah. Anders als Rubens war er nie in Italien und kam deshalb mit dem Hochbarock nicht wirklich in Berührung. Die Hochrenaissance war ihm aber sehr wohl bekannt. Ein Schwerpunkt seines Schaffens liegt auf biblische und historischen Sujets, er malte aber auch Landschaften sowie EInzel- udn Gruppenportraits, wie die Nachtwache. Er besaß ein einzigartiges Gespür für das Schöne im Menschen. Licht udn Schatten sind gewissermaßend sprechen bei Rembrandt und unetrstreichen die emotionale Botschaft des Bildes: Lichtwärmt, reinigt und enthüllt, es ist spirituell.
 
 # Wer ist de' Medici? Wer ist Maria?
 
