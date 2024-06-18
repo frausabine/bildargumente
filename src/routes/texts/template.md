@@ -3,7 +3,7 @@ title: An example of a possible essay.
 date: "2023-12-03"
 color: "blue"
 author: Giacomo Nanni
-isPublic: true
+isPublic: false
 lang: en
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing. Sed vel augue viverra, suscipit nisi sagittis, molestie neque."
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/bbddd54655955eb994e2db8dfc57ef9c85c2cb18.jpg"
