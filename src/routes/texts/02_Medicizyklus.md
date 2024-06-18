@@ -1,7 +1,7 @@
 ---
 title: Medici- und Konstantinzyklus
 date: "2024-05-04"
-color: "blue"
+color: "brown"
 author: Ella 
 isPublic: true
 lang: en
