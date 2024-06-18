@@ -8,6 +8,10 @@ lang: en
 description: "Der Medicizyklus und der Konstantinzyklus gehören beide zu Werken Peter Paul Rubens. Im Aufsatz von Wolfgang Brassat Geschichtskonstruktionen im Widerstreit behandelt er diese und zeigt ihre inhaltlichen Gemeinsamkeiten auf."
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/bbddd54655955eb994e2db8dfc57ef9c85c2cb18.jpg"
 ---
+# Einleitungstext
+
+quelle nennen
+
 # Peter Paul Rubens
 [Peter Paul Rubens](item/68158) (*28.6.1577, Siegen - †30.5.1640, Antwerpen) war ein flämischer Maler, dessen Name gleichbedeutend für eine ganze Epoche steht und untrennbar mit dem Barock verbunden ist. Neben Rembrandt Harmenszoon van Rijn gilt Rubens als größtes Genie in der Malerei des 16. und 17. Jahrhunderts. Er war der bedeutendste und einflussreichste Vertreter der Barockkunst nördlich der Alpen und ungemein produktiv. Er leitete eine Werkstatt mit vielen Gehilfen, zu denen auch [Anthonis van Dyck](item/68243) und [Frans Synders](item/68245) gehörten. Sein Werk spielte eine tragende Rolle in der Repräsentation des katholischen Glaubens und des Herrschaftsanspruchs der Monarchie.
 Typisch für ihn sind raumbezogenen Werke wie [Altarbilder](item/68156) und Deckengemälde. 
@@ -27,7 +31,7 @@ Rubens teilte sich das Kunsthandwerk mit einigen anderen bedeutenden Malern sein
 
 # Anthonis van Dyck: Meisterschüler Rubens
 
-[Anthonis van Dyck](item/68243) lebte von 1599-1641 in Flandern. (Barock) Der gebürtige Antwerpener war ein Wunderkind aus einer Seidenhändlerfamilie. Am bekanntesten sind seine Porträts, vor allem die für den Hof des [Königs Charles I. von England](item/68251). Als dessen Hofmaler lebte van Dyck beinahe zehn Jahre in London, bevor er dort relativ jung starb. Zu Beginn seiner Karriere bereiste er jedoch auch Italien, was ihn nachhaltig beeinflusste.
+[Anthonis van Dyck](item/68243) (Bild zeigt ihm im Alter von......)  lebte von 1599-1641 in Flandern. (Barock) Der gebürtige Antwerpener war ein Wunderkind aus einer Seidenhändlerfamilie. Am bekanntesten sind seine Porträts, vor allem die für den Hof des [Königs Charles I. von England](item/68251). Als dessen Hofmaler lebte van Dyck beinahe zehn Jahre in London, bevor er dort relativ jung starb. Zu Beginn seiner Karriere bereiste er jedoch auch Italien, was ihn nachhaltig beeinflusste.
 Weitere Schwerpunkte waren religiöse und mythologische Themen sowie Landschaftsaquarelle. Er besticht durch technische Brillanz und lockeren Pinselstrich, weniger durch die Üppigkeit eines Rubens, mit dem er auch zusammenarbeitete. Van Dycks Malweise spiegelt die Eleganz, Finesse und den untadeligen Geschmack, die man ebenso von seinen vornehmen Modellen erwartete: zarte, schlanke Körper und würdevolle Haltungen, dezent schimmernde, kostbare Seiden- und Satinstoffe.
 Van Dycks Adelsporträts hatten künstlerisch (und sogar in der Wirklichkeit) Vorbildcharakter und wurden vor allem in England gerne und häufig kopiert. Der Meister zeigt die Überheblichkeit und Reserviertheit jener Gesellschaftsschicht, die sich von der Masse abhebt und über ein ausgeprägtes Selbstbewusstsein verfügt. Eine besonders das Spätwerk prägende lichte Farbigkeit unterstützt diesen Eindruck der Distanz.
 WICHTIGE WERKE: [Selbstporträt von König Charles I. von England](item/68251) Anthonis von Dyck, um 1635, 226 x 207 cm, Öl auf Leinwand, Paris, Louvre. Van Dyck malte 38 Porträts des Königs, dieses ist das beste. Für seine Verdienste wurde er in den Adelsstand erhoben. 
