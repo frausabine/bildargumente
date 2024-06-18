@@ -1,7 +1,7 @@
 ---
 title: Der Teppich von Bayeux
 date: "2024-05-14"
-color: "red"
+color: "purple"
 author: Mara
 isPublic: true
 lang: en
@@ -9,20 +9,16 @@ description: "Der Teppich von Bayeux als Visualisierung zeitgenössischer Ereign
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/04ca6a71026ad4eb07c3a63e00b868a92d2f83f1.jpg"
 ---
 
+# Vorwort
+
+
 Kaum ein mittelalterliches Artefakt wurde so sehr beim Wort genommen wie der berühmte [Teppich von Bayeux](item/68145). Oft genug wurde er den zeitgenössischen Schriftquellen vorgezogen, um Aufstieg und Fall Harold Godwinsons und schließlich die Eroberung Englands durch den normannischen [Thronaspiranten Wilhelm](item/68178) zu schildern: [Die Schlacht von Hastings](set/68262) wird in [zahlreichen Szenen](set/68267) dargestellt; es ist das zentrale Ereignis, das in dem Werk so bildmächtig in den Blick gerückt wird. Kostbarkeit und Fragilität des über 68 Meter langen und lediglich ungefähr einen halben Meter breiten [bestickten Stoffstücks](item/68182), das heute in einem eigens zu diesem Zweck eingerichteten Museum in der Stadt Bayeux aufbewahrt wird, kontrastieren auffällig mit den Gefahren, denen das Werk in der Vergangenheit ausgesetzt war.
 
-[...]
-
-Ungeklärt ist nach wie vor auch die Identifizierung des Auftraggebers. Nährte die Zuschreibung an die Ehefrau Wilhelms, Königin Mathilde, vor allem am Beginn des 19. Jahrhunderts zusätzlich romantische Fiktionen, wird mittlerweile der Halbbruder Wilhelms, [Odo von Bayeux](item/68147), als Initiator favorisiert; jedoch basiert diese Zuweisung ebenso auf Mutmaßungen. [...]
+Ungeklärt ist nach wie vor auch die Identifizierung des Auftraggebers. Nährte die Zuschreibung an die Ehefrau Wilhelms, Königin Mathilde, vor allem am Beginn des 19. Jahrhunderts zusätzlich romantische Fiktionen, wird mittlerweile der Halbbruder Wilhelms, [Odo von Bayeux](item/68147), als Initiator favorisiert; jedoch basiert diese Zuweisung ebenso auf Mutmaßungen.
 
 Zu all dem bringt die Tapisserie etwas mit - besser: es fehlt ihr etwas -, das sie zu einem Geschichten produzierenden Objekt machen musste. Die Geschichte, die erzählt wird, [kennt kein Ende](item/68186), und trotz der eindrücklichen Länge ist der Teppich an einigen Stellen lückenhaft. Da das letzte Stück unvollständig erhalten ist, weiß man nicht einmal, ob es überhaupt eine Szene gegeben haben mag, die zur Klärung des Bildprogramms beitrug.
 
-[...]
-
-
 # Die filmische Abwicklung der Ereignisse
-
-[...]
 
 Doch muss der Faden wohl am Anfang aufgenommen werden, um den Ablauf der Ereignisse zu verstehen. Und so zeigt die erste Szene [die Entsendung Harold Godwinsons durch König Edward in die Normandie](item/68188). Was der genaue Inhalt des Gesprächs ist, das hier innerhalb von Palastmauern stattfindet, kann der Betrachter nur durch die Kenntnis weiterer Textquellen erahnen: Ob [Harold Godwinson](item/68260) tatsächlich von [Edward](item/68265) in die Normandie entsendet wird, um Wilhelms Anrecht auf den englischen Thron zu bekräftigen und ein bereits gegebenes Versprechen zu erneuern? Der thronende englische König [weist mit einem Fingerzeig auf die beiden Gestalten neben seinem Thron](item/68190), der vordere der beiden erwidert diese Geste, und die nach oben gehaltenen linken Hände der Männer bezeugen, dass die erhaltene Weisung gehört und befolgt werden wird. Harold bricht daraufhin mit seinem Gefolge auf, eine Meute Hunde eilt den Reitenden voraus, und der Graf selbst hält einen Falken in die Höhe. Die Falkenjagd mag die friedvolle und höfische Absicht der königlichen Entsendung unterstreichen und weniger das Handeln Harolds denn seine moralische Integrität betonen. Ein Gebet in der Kirche von Bosham und ein gemeinsames Mahl des Grafen mit seinem Gefolge schließt sich an, bevor die Reise über das Meer offenbar die erste Fügung des Schicksals ankündigt. Der volle Wind, der die Segel von Harolds Schiff füllt, führt ihn direkt in die Gefangenschaft des Grafen von Ponthieu, und von dort wiederum in die Hände von dessen Lehnsherrn Wilhelm, Herzog und Graf der Normandie.
 
@@ -44,6 +40,3 @@ Doch die detailreiche Darlegung der Ereignisse ist nicht als Beleg von Authentiz
 Nicht nur Chronisten schilderten die [Schlacht von Hastings](set/68262) und ihre Vorgeschichte mit der ungeklärten Nachfolge Edwards des Bekenners. Auch der Roman de Rou aus der zweiten Hälfte des 12. Jahrhunderts beschwört nochmals den Feldzug Herzog Wilhelms.Und die Dichtung des Baudri de Bourgeuil lobt in höchsten Tönen die Tugenden Wilhelms, der in dessen Sicht aufgrund seiner Verwandtschaft der einzig rechtmäßige Thronerbe sein • konnte.' Mag der Autor Kenntnis von der Tapisserie gehabt und diese gleichsam literarisch in das Schlafgemach der Adele von Blois eingefügt haben, auf jeden Fall erlaubt sein Gedicht eine kulturelle Kontextualisierung der Tapisserie von Bayeux. Im fiktiven Zimmer der Adele von Blois wird in Form einer Ekphrasis die Geschichte, die zur Schlacht von Hastings führte, auf demselben gewebten Stoff dargeboten wie die Schöpfung, das Alte Testament, der Trojanische Krieg; und all dieses ist eingebunden in ein enzyklopädisches Gesamtkonzept, das eine Weltkarte auf dem Boden und eine Darstellung der Artes Liberales am Bett des beschriebenen Zimmers platziert. 
 
 Weshalb lassen sich die visualisierten Geschehnisse nicht ohne weiteres einordnen? Weshalb wird dem Betrachter die Möglichkeit gegeben, das Handeln der Protagonisten selbst zu bewerten? Möglicherweise scheint dies so, weil das Ende der Geschichte, das wir als fehlend erachten, von den zeitgenössischen Adressaten der Tapisserie als längst vorherbestimmt wahrgenommen wurde. Und vielleicht offenbart sich hier am deutlichsten die Rolle des unabänderlichen Schicksals, das Wilhelm und Harold jeweils auf ihre Weise handeln ließ und die Schlacht von Hastings unausweichlich hervorbrachte.
- 
-
-This is an [item](item/306), this is a [media](media/1602) and this is an [item set](set/31735).
