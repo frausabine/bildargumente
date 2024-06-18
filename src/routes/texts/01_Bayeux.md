@@ -1,7 +1,7 @@
 ---
 title: Der Teppich von Bayeux
 date: "2024-05-14"
-color: "blue"
+color: "red"
 author: Mara
 isPublic: true
 lang: en
