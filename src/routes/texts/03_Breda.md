@@ -1,7 +1,7 @@
 ---
 title: Breda
 date: "2024-14-05"
-color: "orange"
+color: "red"
 author: Ben
 isPublic: true
 lang: en
