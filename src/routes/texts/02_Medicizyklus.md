@@ -1,16 +1,14 @@
- ---
-title: Medici- und Konstantinzyklus
+---
+title: Der Medici- und Konstantinzyklus
 date: "2024-05-04"
 color: "brown"
-author: Ella Hartung 
+author: Ella Hartung
 isPublic: true
 lang: en
 description: "Der Medicizyklus und der Konstantinzyklus gehören beide zu Werken Peter Paul Rubens. Im Aufsatz von Wolfgang Brassat Geschichtskonstruktionen im Widerstreit behandelt er diese und zeigt ihre inhaltlichen Gemeinsamkeiten auf."
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/bbddd54655955eb994e2db8dfc57ef9c85c2cb18.jpg"
-
 ---
 
-[Bildnis von Clara Isabella Eugenia, Infantin von Spanien](item/307)
 
 # Peter Paul Rubens
 [Peter Paul Rubens](item/68158) (*28.6.1577, Siegen - †30.5.1640, Antwerpen) war ein flämischer Maler, dessen Name gleichbedeutend für eine ganze Epoche steht und untrennbar mit dem Barock verbunden ist. Neben Rembrandt Harmenszoon van Rijn gilt Rubens als größtes Genie in der Malerei des 16. und 17. Jahrhunderts. Er war der bedeutendste und einflussreichste Vertreter der Barockkunst nördlich der Alpen und ungemein produktiv. Er leitete eine Werkstatt mit vielen Gehilfen, zu denen auch [Anthonis van Dyck](item/68243) und [Frans Synders](item/68245) gehörten. Sein Werk spielte eine tragende Rolle in der Repräsentation des katholischen Glaubens und des Herrschaftsanspruchs der Monarchie.
