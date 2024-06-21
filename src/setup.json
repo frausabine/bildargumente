@@ -1,16 +1,16 @@
 {
-    "title": "ReFa Reader",
+    "title": "Argumentation im Bild und über das Bild",
     "api": "https://uclab.fh-potsdam.de/refa-catalog/api",
     "publicSite": "",
     "languages": [
         "en"
     ],
     "description": {
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing. Sed vel augue viverra, suscipit nisi sagittis, molestie neque."
+        "en": "Diese Seite vereint Visualisierungen aus dem Seminar *Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert* im Sommersemesters 2024 an der FH Potsdam. Basierend auf kunsthistorischen Analysen einzelner Bildwerke, entwickelten Studierende eine Umsetzung der Thesen und Deutungsversuche, der Bildbeschreibungen und Bildvergleiche. Die dazu verwendete Benutzeroberfläche war in dem BMBF-geförderten Projekt *Restaging Fashion* (2020-2023) entstanden und wurde an dieser Stelle erprobt und nachgenutzt."
     },
     "batch": 30,
     "mainCategories": [],
-    "descriptionSeo": "Lorem ipsum dolor sit amet.",
-    "imageSeo": "https://uclab.fh-potsdam.de/refa-catalog/files/large/c70c26ab79548a46066efc31bf517afc08127c66.jpg"
+    "descriptionSeo": "Argumentation im Bild und über das Bild",
+    "imageSeo": "https://uclab.fh-potsdam.de/refa-catalog/files/large/1dc6cd9d4a788640831fafecfd8210c50cd311e1.jpg"
 
 }
