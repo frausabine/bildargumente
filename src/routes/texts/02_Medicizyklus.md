@@ -6,7 +6,7 @@ author: Ella Hartung
 isPublic: true
 lang: en
 description: "Der Medicizyklus und der Konstantinzyklus gehören beide zu Werken Peter Paul Rubens. Im Aufsatz von Wolfgang Brassat Geschichtskonstruktionen im Widerstreit behandelt er diese und zeigt ihre inhaltlichen Gemeinsamkeiten auf."
-cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/bbddd54655955eb994e2db8dfc57ef9c85c2cb18.jpg"
+cover: "https://uclab.fh-potsdam.de/refa-catalog/s/c/item/68370.jpg"
 ---
 
 
