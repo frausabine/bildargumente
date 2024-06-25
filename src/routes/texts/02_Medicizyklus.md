@@ -9,7 +9,7 @@ description: "Der Medicizyklus und der Konstantinzyklus gehören beide zu Werken
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/1dc6cd9d4a788640831fafecfd8210c50cd311e1.jpg"
 ---
 # Visualisierung
-Dieser Beitrg basiert auf dem Aufsatz von Wolfgang Brassat *Titel des Aufsatzes* und zitiert diesen in großen Zeilen.[^Literturangabe reinschreiben]
+Dieser Beitrg basiert auf dem Aufsatz von Wolfgang Brassat *Titel des Aufsatzes* und zitiert diesen in großen Zeilen.[^Literatur 2007]
 
 # Peter Paul Rubens
 [Peter Paul Rubens](item/68158) (*28.6.1577, Siegen - †30.5.1640, Antwerpen) war ein flämischer Maler, dessen Name gleichbedeutend für eine ganze Epoche steht und untrennbar mit dem Barock verbunden ist. Neben Rembrandt Harmenszoon van Rijn gilt Rubens als größtes Genie in der Malerei des 16. und 17. Jahrhunderts. Er war der bedeutendste und einflussreichste Vertreter der Barockkunst nördlich der Alpen und ungemein produktiv. Er leitete eine Werkstatt mit vielen Gehilfen, zu denen auch [Anthonis van Dyck](item/68243) und [Frans Synders](item/68245) gehörten. Sein Werk spielte eine tragende Rolle in der Repräsentation des katholischen Glaubens und des Herrschaftsanspruchs der Monarchie.
