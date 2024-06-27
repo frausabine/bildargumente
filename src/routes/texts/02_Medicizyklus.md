@@ -62,7 +62,7 @@ Seine Fürsprecher führen an, er sei aufgrund seines Zeichentalents, der brilla
 
 # Wer ist die Medicidynastie?
 
-Die [Familie der Medici](item/68162)  (italienisch [ˈmɛːditʃi]; vollständig de’ Medici) aus Florenz bildete vom 15. bis ins 18. Jahrhundert eine einflussreiche italienische Dynastie, aus der Großherzöge der Toskana, drei Päpste und zwei Königinnen von Frankreich hervorgingen.
+Die [Familie der Medici](item/68483)  (italienisch [ˈmɛːditʃi]; vollständig de’ Medici) aus Florenz bildete vom 15. bis ins 18. Jahrhundert eine einflussreiche italienische Dynastie, aus der Großherzöge der Toskana, drei Päpste und zwei Königinnen von Frankreich hervorgingen.
 Die Medici erwarben ihren Reichtum überwiegend im Textilhandel, der von der Gilde Arte della Lana betrieben wurde. Auf dieser Basis begründeten sie ein modernes Bankwesen und dominierten – auch durch ihre Beziehungen zum Papsttum – die europäische Finanzwelt der frühen Neuzeit. Ihr Mäzenatentum ermöglichte und prägte die Renaissance in Florenz.
 Ein Chiarissimo de’ Medici wird 1201 als Mitglied des Stadtrates genannt. Als Amtsinhaber in der Gilde der Kaufleute lassen sie sich erstmals in der zweiten Hälfte des 13. Jahrhunderts nachweisen. Sie gehörten zum bürgerlichen Patriziat der Stadt, die wie die meisten oberitalienischen Städte des Mittelalters republikanisch-oligarchisch regiert wurde.
 Die Medici-Familie waren ebenfalls sehr für die Kunst zu begeistern. [Cosimo l. de’ Medici](item/68164) galt als Urvater der Sammler. Sie sammelten und kauften Kunst an, oder gaben neue Kunstwerke direkt in [Auftrag](item-set/68166).
