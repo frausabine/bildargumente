@@ -8,7 +8,6 @@ lang: en
 description: "Der Medicizyklus und der Konstantinzyklus gehören beide zu Werken Peter Paul Rubens. Wolfgang Brassat behandelt diese und zeigt ihre inhaltlichen Gemeinsamkeiten auf."
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/original/5fa379c9887a6b71590a0cf44030f990b44062b8.jpg"
 ---
-https://uclab.fh-potsdam.de/refa-catalog/files/large/5fa379c9887a6b71590a0cf44030f990b44062b8.jpg https://uclab.fh-potsdam.de/refa-catalog/s/c/item/68584
 
 # Urtext
 Dieser Beitrag basiert auf dem Aufsatz von Wolfgang Brassat *Geschichtskonstruktionen im Widerstreit* und zitiert diesen in großen Zeilen.[^Wolfgang Brassat, Der Medici- und Konstantinzyklus von Peter Paul Rubens, Geschichtskonstruktionen im Widerstreit, in: Fleckner, Uwe, ed., Bilder Machen Geschichte: Historische Ereignisse Im Gedächtnis Der Kunst, Studien Aus Dem Warburg-Haus. - Berlin : DeGruyter, 1998- ; ZDB-ID: 2127979-2, 13 (Berlin; de Gruyter, 2014), S. 141-158]
