@@ -11,6 +11,11 @@ Ein Text von Martin Warnke"
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/bbddd54655955eb994e2db8dfc57ef9c85c2cb18.jpg"
 ---
 
+# Vorwort
+
+In den folgenden Abschnitten aus Martin Warnkes Buch »Bilder machen Geschichte« wird das Gemälde »Übergabe von Breda« von Diego Velázquez detailliert untersucht. Dabei wird analysiert, welche Botschaften das Bild vermittelt und durch welche Elemente diese zum Ausdruck gebracht werden. Insbesondere wird hinterfragt, ob der friedliche Charakter des Gemäldes tatsächlich das einzige oder wichtigste Merkmal ist.
+Diese Visualisierung wurde im Rahmen des Kurses »Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert« erstellt und von Dr. Sabine de Günther betreut.
+
 # Die Übergabe von Breda von Diego Velàsquez
 # Einleitung
 
