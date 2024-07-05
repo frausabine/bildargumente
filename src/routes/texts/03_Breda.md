@@ -8,7 +8,7 @@ lang: en
 description: "Auf der Bühne der Geschichte, die »Übergabe von Breda« des Diego Velázquez
 Aus dem Buch »Bilder machen Geschichte«.
 Ein Text von Martin Warnke"
-cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/bbddd54655955eb994e2db8dfc57ef9c85c2cb18.jpg"
+cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/b23669d8cdeb6ab13edfaa9814a470a7feac295c.jpg"
 ---
 
 # Vorwort
