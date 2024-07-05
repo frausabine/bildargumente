@@ -1,8 +1,8 @@
 ---
-title: Breda
+title: Die Übergabe von Breda
 date: "2024-14-05"
-color: "red"
-author: Ben
+color: "violet"
+author: Ben Raisic
 isPublic: true
 lang: en
 description: "Auf der Bühne der Geschichte, die »Übergabe von Breda« des Diego Velázquez
@@ -14,7 +14,7 @@ cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/b23669d8cdeb6ab13ed
 # Vorwort
 
 In den folgenden Abschnitten aus Martin Warnkes Buch »Bilder machen Geschichte« wird das Gemälde »Übergabe von Breda« von Diego Velázquez detailliert untersucht. Dabei wird analysiert, welche Botschaften das Bild vermittelt und durch welche Elemente diese zum Ausdruck gebracht werden. Insbesondere wird hinterfragt, ob der friedliche Charakter des Gemäldes tatsächlich das einzige oder wichtigste Merkmal ist.
-Diese Visualisierung wurde im Rahmen des Kurses »Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert« erstellt und von Dr. Sabine de Günther betreut.
+Diese Visualisierung wurde im Rahmen des Kurses »Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert« im Sommersemester 2024 an der Fachhochschule Potsdam erstellt und von Dr. Sabine de Günther betreut.
 
 # Die Übergabe von Breda von Diego Velàsquez
 # Einleitung
