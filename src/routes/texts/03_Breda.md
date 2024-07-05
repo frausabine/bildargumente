@@ -5,7 +5,9 @@ color: "red"
 author: Ben
 isPublic: true
 lang: en
-description: "nur innerhalb der anführungszeichen schreiben für eine Beschreibung"
+description: "Auf der Bühne der Geschichte, die »Übergabe von Breda« des Diego Velázquez
+Aus dem Buch »Bilder machen Geschichte«.
+Ein Text von Martin Warnke"
 cover: "https://uclab.fh-potsdam.de/refa-catalog/files/large/bbddd54655955eb994e2db8dfc57ef9c85c2cb18.jpg"
 ---
 
