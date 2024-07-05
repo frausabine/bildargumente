@@ -1,7 +1,7 @@
 ---
 title: Die Übergabe von Breda
 date: "2024-14-05"
-color: "violet"
+color: "purple"
 author: Ben Raisic
 isPublic: true
 lang: en
