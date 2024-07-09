@@ -13,7 +13,7 @@ cover: "https://uclab.fh-potsdam.de/refa-catalog/files/original/b23669d8cdeb6ab1
 
 # Vorwort
 
-In den folgenden Abschnitten aus Martin Warnkes Buch »Bilder machen Geschichte« wird das Gemälde »Übergabe von Breda« von Diego Velázquez detailliert untersucht. Dabei wird analysiert, welche Botschaften das Bild vermittelt und durch welche Elemente diese zum Ausdruck gebracht werden. Insbesondere wird hinterfragt, ob der friedliche Charakter des Gemäldes tatsächlich das einzige oder wichtigste Merkmal ist.
+In den folgenden Abschnitten aus Martin Warnkes [^Martin Warnke. Auf der Bühne der Geschichte. Die Übergabe von Breda des Diego Velázquez, in: Fleckner, Uwe, ed., Bilder Machen Geschichte: Historische Ereignisse Im Gedächtnis Der Kunst, Studien Aus Dem Warburg-Haus. - Berlin : DeGruyter, 1998- ; ZDB-ID: 2127979-2, 13 (Berlin : de Gruyter, 2014), S. 159-170.] Buch »Bilder machen Geschichte« wird das Gemälde »Übergabe von Breda« von Diego Velázquez detailliert untersucht. Dabei wird analysiert, welche Botschaften das Bild vermittelt und durch welche Elemente diese zum Ausdruck gebracht werden. Insbesondere wird hinterfragt, ob der friedliche Charakter des Gemäldes tatsächlich das einzige oder wichtigste Merkmal ist.
 Diese Visualisierung wurde im Rahmen des Kurses »Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert« im Sommersemester 2024 an der Fachhochschule Potsdam erstellt und von Dr. Sabine de Günther betreut.
 
 # Die Übergabe von Breda von Diego Velàsquez
@@ -69,6 +69,5 @@ Seltener wird bemerkt, dass Spinola mit dieser Rede vornehm übergeht, was zuvor
 
 Damit legt Calderón dem Gegner in den Mund was viele seiner spanischen Zeitgenossen empfanden: Das Königreich Spanien steht am Rande des Abgrundes. Und der nach Breda bald enttäuschte und gedemütigte General mag es dem Maler während der gemeinsamen Überfahrt nach Italien bestätigt haben. Indem Spinola in Calderóns Drama die harte Prophezeiung des Holländers überhört und sogar mit einem Kompliment beantwortet, bestätigt er dessen Aussage. Es ist wahrscheinlich, dass dem Hofmaler dieser Schlussdialog des Hofdichters über das Schicksal der Weltreiche noch im Ohr klang, als er die beiden Feldherren sich vor einem Weltpanorama in die Augen sehen ließ. Er hat die Reaktion Spinolas noch dadurch bekräftigt, dass er ihn dem Gegner mit versöhnender Geste gegenübertreten ließ.
 
- [^Martin Warnke. Auf der Bühne der Geschichte. Die Übergabe von Breda des Diego Velázquez, in: Fleckner, Uwe, ed., Bilder Machen Geschichte: Historische Ereignisse Im Gedächtnis Der Kunst, Studien Aus Dem Warburg-Haus. - Berlin : DeGruyter, 1998- ; ZDB-ID: 2127979-2, 13 (Berlin : de Gruyter, 2014), S. 159-170.]
 
 Erstellt mit Hilfe des [ReFa-Readers](https://refareader.fh-potsdam.de).
