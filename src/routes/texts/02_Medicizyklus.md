@@ -121,3 +121,5 @@ John Coolidge hat darauf hingewiesen, dass die Physiognomie der Trauernden eine 
 Es zeigt sich somit, dass nicht nur der Medici-, sondern auch der Konstantinzyklus auf die Vorgänge der umkämpften Thronfolge nach dem Tod Heinrichs IV. Bezug nimmt. In dem nach wie vor schwelenden Konflikt wollte die Königinwitwe durch den Medicizyklus auf die öffentliche Meinungsbildung einwirken und "Geschichte machen", nämlich ihre Sicht der Ereignisse in den Rang einer verbindlichen Geschichtsdarstellung erheben. Unabhängig davon, wer ihn konzipiert und in Auftrag gegeben hat, zeigt der Konstantinzyklus, dass der König dem etwas entgegensetzen musste.
 
 Erstellt mit Hilfe des [ReFa-Readers](https://refareader.fh-potsdam.de).
+
+Zurück zur [Übersicht](https://uclab.fh-potsdam.de/bildargument/) 
