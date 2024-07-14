@@ -43,3 +43,4 @@ Nicht nur Chronisten schilderten die [Schlacht von Hastings](item/68437) und ihr
 Weshalb lassen sich die visualisierten Geschehnisse nicht ohne weiteres einordnen? Weshalb wird dem Betrachter die Möglichkeit gegeben, das Handeln der Protagonisten selbst zu bewerten? Möglicherweise scheint dies so, weil das Ende der Geschichte, das wir als fehlend erachten, von den zeitgenössischen Adressaten der [Tapisserie](set/68267) als längst vorherbestimmt wahrgenommen wurde. Und vielleicht offenbart sich hier am deutlichsten die Rolle des unabänderlichen Schicksals, das [Wilhelm](item/68178) und Harold jeweils auf ihre Weise handeln ließ und die [Schlacht von Hastings](item/68437) unausweichlich hervorbrachte.
 
 Erstellt mit Hilfe des [ReFa-Readers](https://refareader.fh-potsdam.de).
+Zurück zur Übersicht: https://uclab.fh-potsdam.de/bildargument/ 
