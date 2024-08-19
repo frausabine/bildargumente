@@ -70,4 +70,4 @@ Seltener wird bemerkt, dass Spinola mit dieser Rede vornehm übergeht, was zuvor
 Damit legt Calderón dem Gegner in den Mund was viele seiner spanischen Zeitgenossen empfanden: Das Königreich Spanien steht am Rande des Abgrundes. Und der nach Breda bald enttäuschte und gedemütigte General mag es dem Maler während der gemeinsamen Überfahrt nach Italien bestätigt haben. Indem Spinola in Calderóns Drama die harte Prophezeiung des Holländers überhört und sogar mit einem Kompliment beantwortet, bestätigt er dessen Aussage. Es ist wahrscheinlich, dass dem Hofmaler dieser Schlussdialog des Hofdichters über das Schicksal der Weltreiche noch im Ohr klang, als er die beiden Feldherren sich vor einem Weltpanorama in die Augen sehen ließ. Er hat die Reaktion Spinolas noch dadurch bekräftigt, dass er ihn dem Gegner mit versöhnender Geste gegenübertreten ließ.
 
 
-Erstellt mit Hilfe des [ReFa-Readers](https://refareader.fh-potsdam.de).
+Zurück zur [Übersicht](https://uclab.fh-potsdam.de/bildargument/)
